@@ -1,0 +1,501 @@
+amount,description,category
+107.43,Perfume,Compras
+366.75,Táxi,Transporte
+413.37,Mercado,Alimentação
+84.89,Padaria,Alimentação
+343.68,Passagem de ônibus,Transporte
+358.68,Óculos,Saúde
+247.29,Condomínio,Moradia
+87.96,Café,Alimentação
+62.28,Consulta médica,Saúde
+438.51,Medicamentos,Saúde
+281.68,Consulta médica,Saúde
+19.48,Estacionamento,Transporte
+203.07,Perfume,Compras
+176.8,Curso online,Educação
+382.17,Condomínio,Moradia
+63.11,Conserto,Outros
+73.36,Padaria,Alimentação
+447.68,Padaria,Alimentação
+100.1,Café,Alimentação
+299.19,Estacionamento,Transporte
+482.28,Supermercado,Compras
+351.59,Cinema,Lazer
+439.78,Faculdade,Educação
+117.47,Show,Lazer
+202.98,Uber,Transporte
+56.56,Livros,Educação
+211.23,Conserto,Outros
+36.15,Café,Alimentação
+97.77,Fast Food,Alimentação
+421.88,Livros,Educação
+375.63,Padaria,Alimentação
+238.73,Presente,Outros
+425.49,Presente,Outros
+393.79,Fast Food,Alimentação
+234.13,Fast Food,Alimentação
+361.0,Fast Food,Alimentação
+106.45,Internet,Moradia
+179.58,Serviço de assinatura,Outros
+299.05,Mercado,Alimentação
+303.63,Mercado,Alimentação
+9.16,Presente,Outros
+90.17,Móveis,Compras
+328.43,Academia,Lazer
+234.53,Condomínio,Moradia
+409.95,Estacionamento,Transporte
+454.02,Fast Food,Alimentação
+331.82,Consulta médica,Saúde
+50.99,Gasolina,Transporte
+57.25,Parque,Lazer
+456.02,Supermercado,Compras
+382.01,Conta de luz,Moradia
+168.47,Eletrônicos,Compras
+320.43,Palestra,Educação
+394.24,Parque,Lazer
+260.45,Conta de luz,Moradia
+182.89,Viagem,Lazer
+27.79,Perfume,Compras
+343.56,Medicamentos,Saúde
+355.24,Conta de luz,Moradia
+294.5,Serviço de assinatura,Outros
+18.78,Academia,Lazer
+418.59,Perfume,Compras
+101.85,Gasolina,Transporte
+352.01,Livros,Educação
+492.03,Restaurante,Alimentação
+188.48,Padaria,Alimentação
+279.8,Faculdade,Educação
+113.17,Medicamentos,Saúde
+220.62,Mercado,Alimentação
+42.7,Taxas bancárias,Outros
+159.37,Roupas,Compras
+238.33,Faculdade,Educação
+134.07,Livros,Educação
+435.31,Perfume,Compras
+29.04,Show,Lazer
+109.15,Conta de luz,Moradia
+160.5,Passagem de ônibus,Transporte
+40.53,Faculdade,Educação
+118.22,Academia,Lazer
+44.51,Uber,Transporte
+395.29,Palestra,Educação
+22.68,Aluguel,Moradia
+254.9,Curso online,Educação
+495.46,Curso online,Educação
+239.8,Internet,Moradia
+137.72,Exames,Saúde
+493.76,Consulta médica,Saúde
+300.89,Academia,Lazer
+103.87,Gasolina,Transporte
+91.22,Dentista,Saúde
+263.4,Internet,Moradia
+171.61,Internet,Moradia
+334.81,Gasolina,Transporte
+423.82,Supermercado,Compras
+99.84,Condomínio,Moradia
+476.2,Passagem de ônibus,Transporte
+444.26,Cinema,Lazer
+289.03,Conserto,Outros
+491.17,Taxas bancárias,Outros
+219.77,Móveis,Compras
+491.78,Café,Alimentação
+111.04,Palestra,Educação
+161.74,Material escolar,Educação
+294.39,Padaria,Alimentação
+410.85,Roupas,Compras
+255.18,Conta de luz,Moradia
+167.52,Exames,Saúde
+289.15,Serviço de assinatura,Outros
+272.96,Presente,Outros
+426.4,Conserto,Outros
+106.21,Móveis,Compras
+349.72,Consulta médica,Saúde
+270.54,Cinema,Lazer
+410.11,Material escolar,Educação
+329.03,Livros,Educação
+498.17,Café,Alimentação
+443.01,Academia,Lazer
+311.89,Conta de luz,Moradia
+214.73,Academia,Lazer
+164.07,Móveis,Compras
+359.81,Parque,Lazer
+196.85,Taxas bancárias,Outros
+444.24,Presente,Outros
+53.15,Internet,Moradia
+421.32,Café,Alimentação
+192.2,Academia,Lazer
+445.5,Fast Food,Alimentação
+309.78,Aluguel,Moradia
+32.41,Parque,Lazer
+98.47,Perfume,Compras
+319.07,Café,Alimentação
+175.83,Passagem de ônibus,Transporte
+317.7,Presente,Outros
+138.26,Faculdade,Educação
+336.12,Viagem,Lazer
+108.77,Passagem de ônibus,Transporte
+443.74,Taxas bancárias,Outros
+146.34,Show,Lazer
+412.44,Uber,Transporte
+475.03,Palestra,Educação
+381.15,Serviço de assinatura,Outros
+415.42,Viagem,Lazer
+457.66,Internet,Moradia
+260.74,Café,Alimentação
+199.31,Padaria,Alimentação
+173.45,Academia,Lazer
+280.69,Eletrônicos,Compras
+361.8,Óculos,Saúde
+155.48,Doação,Outros
+424.19,Academia,Lazer
+105.08,Óculos,Saúde
+350.28,Eletrônicos,Compras
+16.43,Conta de luz,Moradia
+164.52,Água,Moradia
+96.39,Uber,Transporte
+456.71,Roupas,Compras
+189.51,Parque,Lazer
+307.75,Móveis,Compras
+296.5,Parque,Lazer
+348.41,Condomínio,Moradia
+336.89,Óculos,Saúde
+27.18,Show,Lazer
+77.45,Cinema,Lazer
+461.65,Supermercado,Compras
+290.75,Exames,Saúde
+107.0,Uber,Transporte
+181.66,Curso online,Educação
+312.13,Parque,Lazer
+58.94,Uber,Transporte
+463.93,Táxi,Transporte
+114.29,Móveis,Compras
+476.77,Uber,Transporte
+467.7,Serviço de assinatura,Outros
+436.79,Curso online,Educação
+474.27,Mercado,Alimentação
+372.49,Restaurante,Alimentação
+239.62,Eletrônicos,Compras
+197.37,Roupas,Compras
+70.28,Consulta médica,Saúde
+352.48,Eletrônicos,Compras
+230.37,Passagem de ônibus,Transporte
+295.15,Exames,Saúde
+372.88,Perfume,Compras
+344.86,Presente,Outros
+108.06,Parque,Lazer
+348.52,Parque,Lazer
+321.75,Água,Moradia
+355.93,Fast Food,Alimentação
+76.84,Estacionamento,Transporte
+452.62,Eletrônicos,Compras
+437.37,Medicamentos,Saúde
+304.66,Condomínio,Moradia
+401.89,Eletrônicos,Compras
+371.39,Academia,Lazer
+490.83,Dentista,Saúde
+6.17,Viagem,Lazer
+43.69,Presente,Outros
+98.18,Fast Food,Alimentação
+497.5,Medicamentos,Saúde
+273.65,Curso online,Educação
+412.14,Água,Moradia
+26.09,Padaria,Alimentação
+157.84,Roupas,Compras
+424.89,Medicamentos,Saúde
+268.36,Estacionamento,Transporte
+18.77,Conta de luz,Moradia
+260.69,Viagem,Lazer
+202.65,Aluguel,Moradia
+24.0,Água,Moradia
+214.21,Padaria,Alimentação
+408.99,Eletrônicos,Compras
+381.32,Serviço de assinatura,Outros
+293.4,Internet,Moradia
+188.19,Estacionamento,Transporte
+189.22,Consulta médica,Saúde
+119.41,Supermercado,Compras
+354.2,Perfume,Compras
+184.98,Parque,Lazer
+455.07,Viagem,Lazer
+141.21,Taxas bancárias,Outros
+351.09,Roupas,Compras
+288.7,Doação,Outros
+389.03,Roupas,Compras
+59.2,Supermercado,Compras
+231.38,Supermercado,Compras
+126.99,Presente,Outros
+278.26,Dentista,Saúde
+492.84,Academia,Lazer
+327.95,Taxas bancárias,Outros
+242.48,Consulta médica,Saúde
+216.96,Faculdade,Educação
+264.6,Aluguel,Moradia
+453.83,Restaurante,Alimentação
+64.61,Fast Food,Alimentação
+333.54,Taxas bancárias,Outros
+126.73,Eletrônicos,Compras
+121.67,Óculos,Saúde
+380.37,Taxas bancárias,Outros
+428.64,Restaurante,Alimentação
+306.23,Uber,Transporte
+324.63,Doação,Outros
+279.44,Restaurante,Alimentação
+358.91,Padaria,Alimentação
+174.77,Café,Alimentação
+94.07,Internet,Moradia
+369.68,Medicamentos,Saúde
+310.86,Curso online,Educação
+95.29,Táxi,Transporte
+294.1,Condomínio,Moradia
+351.93,Livros,Educação
+499.8,Parque,Lazer
+340.87,Dentista,Saúde
+365.73,Academia,Lazer
+485.83,Eletrônicos,Compras
+323.52,Eletrônicos,Compras
+226.63,Supermercado,Compras
+252.33,Táxi,Transporte
+158.51,Gasolina,Transporte
+479.57,Eletrônicos,Compras
+314.16,Fast Food,Alimentação
+429.91,Mercado,Alimentação
+43.92,Internet,Moradia
+438.2,Padaria,Alimentação
+384.34,Supermercado,Compras
+214.57,Supermercado,Compras
+406.77,Táxi,Transporte
+25.55,Óculos,Saúde
+357.19,Exames,Saúde
+10.1,Móveis,
+152.9,Parque,Lazer
+426.79,Fast Food,Alimentação
+326.56,Móveis,Compras
+14.96,Consulta médica,Saúde
+439.15,Curso online,Educação
+344.91,Óculos,Saúde
+26.32,Doação,Outros
+195.66,Exames,Saúde
+161.18,Supermercado,Compras
+83.21,Presente,Outros
+262.67,Fast Food,Alimentação
+302.03,Táxi,Transporte
+423.61,Condomínio,Moradia
+467.92,Supermercado,Compras
+59.08,Consulta médica,Saúde
+423.07,Consulta médica,Saúde
+89.22,Viagem,Lazer
+226.02,Restaurante,Alimentação
+143.4,Perfume,Compras
+439.75,Mercado,
+124.94,Restaurante,Alimentação
+92.64,Parque,Lazer
+158.34,Viagem,Lazer
+348.74,Exames,Saúde
+395.06,Exames,Saúde
+169.23,Exames,Saúde
+495.14,Show,Lazer
+351.27,Consulta médica,Saúde
+5.75,Medicamentos,Saúde
+373.16,Curso online,Educação
+331.49,Mercado,Alimentação
+77.29,Táxi,Transporte
+377.11,Cinema,Lazer
+199.28,Presente,Outros
+480.33,Serviço de assinatura,Outros
+493.82,Exames,Saúde
+256.72,Doação,Outros
+142.31,Água,Moradia
+335.52,Restaurante,Alimentação
+417.42,Dentista,Saúde
+263.47,Água,Moradia
+86.55,Presente,Outros
+411.77,Material escolar,Educação
+138.83,Medicamentos,Saúde
+209.21,Conta de luz,Moradia
+453.73,Conserto,Outros
+11.19,Eletrônicos,Compras
+351.92,Palestra,Educação
+296.91,Restaurante,Alimentação
+258.49,Serviço de assinatura,Outros
+278.88,Viagem,Lazer
+336.66,Internet,
+427.47,Perfume,Compras
+105.69,Táxi,Transporte
+459.44,Faculdade,Educação
+388.0,Material escolar,Educação
+463.46,Roupas,Compras
+299.1,Medicamentos,Saúde
+496.42,Material escolar,Educação
+482.97,Consulta médica,Saúde
+419.52,Palestra,Educação
+155.03,Conta de luz,Moradia
+86.41,Medicamentos,Saúde
+474.4,Doação,Outros
+161.66,Parque,Lazer
+408.88,Eletrônicos,Compras
+18.8,Passagem de ônibus,Transporte
+126.68,Medicamentos,Saúde
+109.22,Condomínio,Moradia
+112.16,Medicamentos,Saúde
+32.58,Curso online,Educação
+456.55,Dentista,Saúde
+412.71,Show,Lazer
+225.61,Mercado,
+20.17,Fast Food,Alimentação
+466.62,Gasolina,Transporte
+266.23,Passagem de ônibus,Transporte
+200.97,Uber,Transporte
+324.6,Exames,Saúde
+41.81,Estacionamento,Transporte
+92.81,Água,Moradia
+215.79,Óculos,Saúde
+31.9,Taxas bancárias,Outros
+91.6,Táxi,Transporte
+434.24,Academia,Lazer
+422.86,Café,Alimentação
+259.52,Supermercado,Compras
+282.67,Uber,Transporte
+20.8,Padaria,Alimentação
+74.42,Conserto,Outros
+31.11,Faculdade,Educação
+38.38,Doação,Outros
+6.11,Gasolina,Transporte
+108.2,Show,Lazer
+322.75,Padaria,Alimentação
+52.36,Internet,Moradia
+366.79,Taxas bancárias,Outros
+442.95,Doação,Outros
+450.11,Consulta médica,Saúde
+332.28,Presente,Outros
+469.66,Passagem de ônibus,Transporte
+187.83,Faculdade,Educação
+58.48,Café,Alimentação
+343.48,Parque,Lazer
+65.09,Móveis,Compras
+214.57,Restaurante,Alimentação
+5.2,Conserto,Outros
+152.66,Café,Alimentação
+241.49,Padaria,Alimentação
+426.35,Exames,Saúde
+372.33,Faculdade,Educação
+179.0,Parque,Lazer
+360.36,Gasolina,
+123.62,Consulta médica,Saúde
+352.85,Aluguel,Moradia
+338.06,Faculdade,Educação
+459.91,Mercado,Alimentação
+59.63,Curso online,Educação
+260.99,Exames,Saúde
+496.38,Curso online,Educação
+221.07,Padaria,Alimentação
+335.12,Taxas bancárias,Outros
+436.34,Academia,Lazer
+454.88,Fast Food,Alimentação
+137.74,Internet,Moradia
+219.46,Conta de luz,Moradia
+188.05,Supermercado,Compras
+372.29,Palestra,Educação
+104.82,Livros,Educação
+457.78,Material escolar,Educação
+416.75,Fast Food,Alimentação
+495.1,Supermercado,Compras
+384.29,Palestra,Educação
+113.66,Estacionamento,Transporte
+254.13,Academia,Lazer
+464.51,Academia,Lazer
+179.55,Condomínio,Moradia
+212.46,Consulta médica,Saúde
+380.68,Gasolina,Transporte
+438.77,Uber,Transporte
+261.24,Serviço de assinatura,Outros
+298.17,Condomínio,Moradia
+294.26,Show,Lazer
+208.2,Show,Lazer
+85.97,Aluguel,Moradia
+122.44,Livros,Educação
+247.88,Gasolina,Transporte
+493.62,Café,Alimentação
+443.98,Aluguel,Moradia
+481.71,Óculos,Saúde
+333.46,Medicamentos,Saúde
+478.78,Faculdade,Educação
+405.71,Gasolina,Transporte
+352.3,Padaria,Alimentação
+278.66,Passagem de ônibus,Transporte
+110.78,Estacionamento,Transporte
+491.19,Eletrônicos,Compras
+324.65,Viagem,Lazer
+52.94,Padaria,
+156.92,Gasolina,Transporte
+476.39,Móveis,Compras
+441.98,Móveis,Compras
+233.0,Curso online,Educação
+103.98,Aluguel,Moradia
+13.22,Faculdade,Educação
+336.15,Parque,Lazer
+43.77,Condomínio,Moradia
+60.67,Conserto,Outros
+355.21,Serviço de assinatura,Outros
+285.7,Táxi,Transporte
+31.59,Gasolina,Transporte
+474.74,Material escolar,Educação
+448.17,Eletrônicos,Compras
+387.86,Show,Lazer
+260.23,Óculos,Saúde
+289.69,Livros,Educação
+493.87,Medicamentos,Saúde
+152.77,Show,Lazer
+228.29,Show,Lazer
+209.33,Faculdade,Educação
+306.33,Fast Food,Alimentação
+163.08,Condomínio,Moradia
+489.66,Palestra,Educação
+40.7,Parque,Lazer
+138.65,Livros,Educação
+191.61,Passagem de ônibus,Transporte
+481.36,Internet,Moradia
+44.44,Fast Food,Alimentação
+339.79,Restaurante,Alimentação
+455.66,Viagem,Lazer
+237.38,Condomínio,Moradia
+242.32,Táxi,Transporte
+181.85,Parque,Lazer
+447.85,Passagem de ônibus,Transporte
+224.65,Medicamentos,Saúde
+56.36,Roupas,Compras
+182.28,Taxas bancárias,Outros
+273.38,Livros,Educação
+252.58,Restaurante,Alimentação
+212.9,Faculdade,Educação
+344.89,Serviço de assinatura,Outros
+9.48,Móveis,Compras
+390.26,Cinema,Lazer
+229.58,Viagem,Lazer
+279.9,Taxas bancárias,Outros
+246.14,Medicamentos,Saúde
+353.22,Água,Moradia
+63.11,Passagem de ônibus,Transporte
+123.96,Viagem,Lazer
+72.27,Táxi,Transporte
+450.68,Academia,Lazer
+353.25,Estacionamento,Transporte
+29.81,Doação,Outros
+342.69,Óculos,Saúde
+263.57,Restaurante,Alimentação
+298.77,Perfume,Compras
+416.94,Roupas,Compras
+103.09,Água,Moradia
+139.3,Cinema,Lazer
+407.3,Restaurante,Alimentação
+304.67,Condomínio,Moradia
+57.09,Academia,Lazer
+279.68,Doação,Outros
+277.14,Aluguel,Moradia
+367.86,Serviço de assinatura,Outros
+211.09,Taxas bancárias,Outros
+305.59,Gasolina,Transporte
+272.59,Perfume,Compras
+466.3,Óculos,
+434.31,Supermercado,Compras
+463.94,Água,Moradia
